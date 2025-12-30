@@ -15,9 +15,9 @@ visual studio code, jupyter notebook 등 다양한 에디터 환영!!
 # YYMMDD
 
 ## 오늘 한 것
-
+수업 들음
 ## 내일 할 것
-
+수업 들음
 ## 이슈
 
 ```
